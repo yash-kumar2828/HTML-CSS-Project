@@ -1,0 +1,137 @@
+  .form{
+    border: 10px solid black;
+    width: 1070px; 
+    background-color: antiquewhite;  
+    align-items: center; 
+  }
+  .border{
+    border: 2px black solid;
+  }
+  #border{
+    border: 2px black solid;
+  }
+  .img{
+    position: absolute;
+  }
+  .h1{
+    margin-left: 60px;
+  }
+  .p1{
+    text-align: center;
+  }
+  .p2{
+    text-align: center;
+  }
+  .box1{
+    height: 180px;
+    width: 180px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 820px;
+    position: absolute;
+  }
+  .box2{
+    border: 2px black solid;
+    height: 40px;
+    width: 800px;
+    font-weight: 700;
+  }
+  .box3{
+    border: 2px solid black;
+    height: 50px;
+    width: 180px;
+    margin-left: 820px ;
+    margin-top: 70px;
+    position: absolute;
+  }
+  .signature{
+    margin-left: 844px;
+    position: absolute;
+    margin-top: 128px;
+  }   
+  .box4{
+    height: 200px;
+    width: 968px;
+    border: 2px black solid;
+    margin-right:-5px;
+  }
+  .main{
+    margin-top: 81px;
+  }
+  .aadh{
+    margin-left: 350px;
+  }
+  .input{
+    margin-left: 350px;
+  }
+  .p1{
+    font-weight: 700;
+  }
+  .div1{
+    margin-left: 20px;
+  }
+  .box5{
+    border: 2px solid black;
+    width: 968px;
+    height: 320px;
+  }
+  .std{
+    margin-left: 700px ;
+  }
+  .subject1{
+    width: 49%;
+    height: 50px;
+    border: 2px solid black;
+    margin-left: 55px;
+    display: flex;
+    justify-content: space-evenly;   
+}
+.subject{
+    display: flex;
+}
+.sec1{
+  height: 70px;
+  width: 865px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 65px;
+  border: 2px solid black
+}
+.sign{
+  width:865px ;
+  height: 185px;
+  border: 2px solid black;
+  margin-left: 65px;
+  border-radius: 30px;
+}
+.sign1{
+  height: 50px;
+  width: 200px;
+  border: 2px solid black;
+  margin-top: 20px;
+  margin-left: 30px;
+  display: inline-block;
+}
+.sign2{
+  margin-left: 70px;
+  display: inline-block;   
+} 
+.sign3{
+  height: 50px;
+  width: 210px;
+  border: 2px solid black;
+  margin-top: 40px;
+  margin-left: 495px; 
+}
+.sign4{
+  margin-left: 510px; 
+  margin-top: 10px;
+}
+.note{
+  height:20px;
+  width: 865px;
+  border: 2px solid black;
+  margin-left: 80px;
+  text-align: center;
+  font-weight:700;
+}

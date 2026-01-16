@@ -1,0 +1,38 @@
+.main{
+    margin-left: 45%; 
+     padding-top: 200px; 
+}
+.mzn{
+    height: 50px;
+    width: 275px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-top-left-radius:10px ;
+    border-top-right-radius:10px ;
+    border: 1px solid black;
+}
+.img{
+   height: 210px;
+   width: 275px;
+   background-color: red; 
+   text-align: center;
+   color: white;
+   font-size: 20px;
+   border: 1px solid black;
+}
+.photo{
+    margin-top: 6px;
+    border: 2px solid white;
+}
+.at{
+    width: 275px;
+    height: 150px;
+    background-color: white;
+    border: 1px solid black;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.margin{
+    margin-left: 6px;
+}
